@@ -1,4 +1,4 @@
-# Airline API
+# Jet Lag
 
 An API to get statistics on delayed flights across major airports in the United States from 2003 to 2016.
 
